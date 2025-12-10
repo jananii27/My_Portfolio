@@ -9,7 +9,7 @@ The website is fully responsive and includes smooth scrolling, animations, and a
 
 ## 🚀 Live Demo  
 🔗 **Live Preview:** 
-https://jananii27.github.io/Portfolio/
+https://jananii27.github.io/My_Portfolio/
 ---
 
 ## 📌 Features
@@ -75,5 +75,9 @@ https://jananii27.github.io/Portfolio/
 ## 📮 Contact Form Integration
 
 The contact form in this project uses Web3Forms API.
+
 <input type="hidden" name="access_key" value="3d7963ca-ec8f-420d-b2f7-4891753246a6">
+
+---
+
 
